@@ -20,7 +20,7 @@ Print y values:
 
 
 ```python
-plt.plot(x,y,'b')
+plt.plot(x,y,'b',);
 ```
 
 
